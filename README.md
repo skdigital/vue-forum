@@ -1,5 +1,7 @@
 # vueschool-forum
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skdigital/vue-forum.svg)](https://greenkeeper.io/)
+
 > amazing forum
 
 ## Build Setup
